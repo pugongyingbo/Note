@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">还没有笔记~</string>
+    <string name="exit">再按一次退出笔记</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+</resources>
