@@ -5,7 +5,7 @@
 
 * RecycleView + CardView
 
-![image](https://github.com/pugongyingbo/Note/NoteScreenshot)
+![image](https://github.com/pugongyingbo/Note/raw/master/NoteScreenshot/note.png)
 
 ##about me
 
