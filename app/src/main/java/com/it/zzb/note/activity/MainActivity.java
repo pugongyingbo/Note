@@ -186,7 +186,8 @@ public class MainActivity extends AppCompatActivity {
 
         switch (item.getItemId()) {
             case R.id.action_about:
-                setContentView(R.layout.about);
+                Intent intent = new Intent(MainActivity.this, AboutActivity.class);
+                startActivity(intent);
 
                 break;
             case R.id.action_clean:

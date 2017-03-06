@@ -68,6 +68,24 @@
                 />
 
         </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="35dp"
+            app:cardCornerRadius="4dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:text="作者：pugongyingbo@163.com"
+                />
+
+        </android.support.v7.widget.CardView>
     </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
 
