@@ -199,7 +199,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int which) {
                         for (int id = 0; id < 100; id++)
                             DbManager.getInstance(MainActivity.this).delete(id);
-                        adapter.removeAll();
+                        radapter.removeAll();
                         updateView();
                     }
                 });
